@@ -1,2 +1,5 @@
 .gradle
 .idea
+/bunq.conf
+/key.txt
+/build/
